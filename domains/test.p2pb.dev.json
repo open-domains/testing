@@ -1,0 +1,15 @@
+{
+  "description": "Test domain",
+
+  "domain": "p2pb.dev",
+  "subdomain": "test",
+  "owner": {
+    "email": "sys@open-domains.net"
+  },
+
+  "record": {
+    "CNAME": "open-domains.net"
+  },
+
+  "proxied": false
+}
