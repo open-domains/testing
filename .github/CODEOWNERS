@@ -1,0 +1,13 @@
+# EVERYTHING HAS BEEN CHANGED TO THE Maintaners team but is kept like this to match the main repo.
+# All Files 
+* @open-domains/maintaners
+
+# Reserved Domains
+domains/reserved/* @open-domains/maintaners
+
+# User Domains
+domains/* @open-domains/maintainers
+
+# MD Files
+README.md @open-domains/maintainers
+# terms.md @open-domains/owners (No terms as its not needed for here)
